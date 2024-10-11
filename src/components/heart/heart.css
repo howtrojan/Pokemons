@@ -1,0 +1,9 @@
+.heart {    
+    fill: grey;
+    cursor: pointer;   
+}
+
+.heart.clicked {
+    fill: red;
+}
+

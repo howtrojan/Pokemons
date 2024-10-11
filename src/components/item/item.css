@@ -1,0 +1,34 @@
+.card {  
+    position: relative; 
+    background-color: #ffffff;
+    padding: 10px;
+    gap: 5px;
+    width: 300px;
+    border-radius: 10px;             
+}
+
+.card-infos {
+    display: flex; 
+    flex-direction: column;
+    align-items: center; 
+}
+
+.card-infos img {
+    width: 200px;
+    height: 200px;    
+}
+
+.card-infos p {
+    font-size: 25px;
+    font-weight: 600;    
+    text-transform: uppercase;
+}
+
+.card-heart{
+    position: absolute;
+    width: 50px;   
+    top: 8px;
+    right: 8px;
+}
+
+

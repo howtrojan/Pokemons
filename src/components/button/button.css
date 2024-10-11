@@ -1,0 +1,19 @@
+
+/* me de o codigo do botão formatado*/
+.btn{
+    background-color: #3a3a3a;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 400;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    border: 1px solid #3a3a3a;
+}
+
+.btn:hover{ 
+    background-color: #ffffff;
+    color: #3a3a3a;
+    border: 1px solid #3a3a3a;
+}
